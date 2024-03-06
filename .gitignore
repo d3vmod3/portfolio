@@ -1,4 +1,4 @@
-!/app-src/*
+!/app-src/
 docker-compose.yml
 .DS_Store
 .idea
