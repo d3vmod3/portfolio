@@ -57,12 +57,12 @@ style = "github-dark"
 [[menu.main]]
   name = "Portfolio"
   weight = 1
-  url  = "portfolio"
+  url  = "/portfolio"
 [[menu.main]]
   name = "About"
   weight = 2
-  url = "about"
+  url = "/about"
 [[menu.main]]
   name = "Contact"
   weight = 2
-  url = "contact"
+  url = "/contact"
