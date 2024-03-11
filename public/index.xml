@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alexietuzon</title>
-    <link>http://www.example.com/</link>
+    <link>/</link>
     <description>Recent content on alexietuzon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2024 20:20:09 +0800</lastBuildDate>
-    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 11 Mar 2024 20:20:09 +0800</pubDate>
-      <guid>http://www.example.com/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://www.example.com/portfolio/</link>
+      <link>/portfolio/</link>
       <pubDate>Mon, 11 Mar 2024 19:59:43 +0800</pubDate>
-      <guid>http://www.example.com/portfolio/</guid>
+      <guid>/portfolio/</guid>
       <description>Previous Projects:&#xA;Gonlden Press Soros Security Consulting RONLapor Living Pianos </description>
     </item>
   </channel>
