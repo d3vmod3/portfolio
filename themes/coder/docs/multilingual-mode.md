@@ -1,38 +1,38 @@
 # Multilingual-Mode
 
-* [Available Languages](#available-languages)
-* [Configure Languages](#configure-languages)
-* [Translation File Example](#translation-file-example)
+-   [Available Languages](#available-languages)
+-   [Configure Languages](#configure-languages)
+-   [Translation File Example](#translation-file-example)
 
 ## Available Languages
 
 This theme supports the following languages:
 
-- Arabic
-- Bengali
-- Czech
-- German
-- English
-- Spanish
-- Finnish
-- French
-- Hebrew
-- Hindi
-- Hungarian
-- Italian
-- Japanese
-- Malay
-- Dutch
-- Polish
-- Brazilian Portuguese
-- Romanian
-- Russian
-- Swedish
-- Slovak
-- Turkish
-- Simplified Chinese
-- Taiwan Chinese
-- Urdu
+-   Arabic
+-   Bengali
+-   Czech
+-   German
+-   English
+-   Spanish
+-   Finnish
+-   French
+-   Hebrew
+-   Hindi
+-   Hungarian
+-   Italian
+-   Japanese
+-   Malay
+-   Dutch
+-   Polish
+-   Brazilian Portuguese
+-   Romanian
+-   Russian
+-   Swedish
+-   Slovak
+-   Turkish
+-   Simplified Chinese
+-   Taiwan Chinese
+-   Urdu
 
 ## Configure languages
 

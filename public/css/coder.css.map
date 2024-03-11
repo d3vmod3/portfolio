@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder.css",
-	"sourceRoot": "/Users/alexietuzon/Documents/quickstart",
+	"sourceRoot": "/Users/alexietuzon/Documents/Portfolio/portfolio",
 	"sources": [
 		"themes/coder/assets/scss/coder.scss",
 		"themes/coder/assets/scss/css/normalize.css",
